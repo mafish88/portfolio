@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+}
+
+h2{
+    color: rgb(154, 95, 152);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+ul{
+    color: coral;
+
+
+}
+
+p{
+    color: coral;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
